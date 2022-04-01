@@ -9,6 +9,6 @@
 <body>
 test
 학원 컴퓨터로 테스트!!!
-다시 test
+다시 test2
 </body>
 </html>
